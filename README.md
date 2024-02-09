@@ -4,7 +4,7 @@
 - 🌱 I did my Bachelor's degree in Biology at the University of Bielefeld.
 - 🧠 I’m currently studying the Neural & Behavioural Sciences Master <br> as part of the Graduate Training Center of Neuroscience, at Tübingen.
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 Feel free to reach out to me at leo.werner@student.uni-tuebingen.de
+- 📫 Feel free to reach out to me at: leo.werner@student.uni-tuebingen.de
 - 😄 Pronouns: He / Him
 <!-- - ⚡ Fun fact: ... -->
 
